@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jisphip&#39;s Blog</title>
+    <link>http://jisphip.github.io/</link>
+    <description>Recent content on Jisphip&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Mar 2022 23:13:25 +0800</lastBuildDate><atom:link href="http://jisphip.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>http://jisphip.github.io/posts/hello/</link>
+      <pubDate>Wed, 16 Mar 2022 23:13:25 +0800</pubDate>
+      
+      <guid>http://jisphip.github.io/posts/hello/</guid>
+      <description>你好，世界！</description>
+    </item>
+    
+  </channel>
+</rss>
